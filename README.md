@@ -1,7 +1,7 @@
 ## Dev <strong>Matheus Ribeiro</strong>
 
 
-🔭 Atualmente trabalhando em um projeto em React, emulando um <a href='https://http2.mlstatic.com/D_NQ_NP_984170-MLB29842685423_042019-O.jpg'>Pip Boy</a> da franquia de games Fallout.
+🔭 Atualmente buscando emprego na área. Full, Back ou Front.
 <img align="right" width="300" src="https://thumbs.gfycat.com/FrankPhonyJohndory-size_restricted.gif?fit=1281%2C716&ssl=1" />
 
 ----
