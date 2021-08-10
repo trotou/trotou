@@ -1,7 +1,7 @@
 ## Dev <strong>Matheus Ribeiro</strong>
 
 
-🔭 Atualmente buscando emprego na área. Full, Back ou Front.
+🔭 Atualmente trabalhando em Front-End.
 <img align="right" width="300" src="https://thumbs.gfycat.com/FrankPhonyJohndory-size_restricted.gif?fit=1281%2C716&ssl=1" />
 
 ----
